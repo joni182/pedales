@@ -24,7 +24,12 @@
 - Q1: 2n3904
 - Q2 y Q3 ac128
 
-### Electromecánicos
+### Otros
 
-- Caja
-- Jack audio
+- Davies 1510 Knob x5
+- Caja (125B, 1590B)
+- 6.35mm Jacks x2 (Mono y Estereo)
+- Bezel Led
+- Led 5mm
+- Jack 9v
+- Conector pila 9v
